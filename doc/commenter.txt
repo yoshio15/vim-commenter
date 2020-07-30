@@ -1,0 +1,12 @@
+*commenter.txt* Our first commenting plugin
+*commenter*
+==========================================================================
+CONTENTS                                              *commenter-contents*
+  1. Intro...............................................|commenter-intro|
+  2. Usage...............................................|commenter-usage|
+==========================================================================
+1. Intro                                                 *commenter-intro*
+vim-commenter lets you comment out a single line in vim quickly!
+2. Usage                                                 *commenter-usage*
+This plugin supports the following key bindings:
+  gc: toggle comment on a current line
